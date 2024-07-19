@@ -46,10 +46,5 @@ The issue is hard to resolve once systems are in a reboot loop. Manual fixes tak
 CrowdStrike is communicating the fix as quickly and widely as possible. They are working on solutions to help affected users and may provide tools to ease the recovery process.
 
 ## Give me a coffee!
-```markdown
-[
-  ![Donate with PayPal]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://www.paypal.com/donate/?hosted_button_id=EHHGTPKA7GQJL)
-```
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=EHHGTPKA7GQJL)
+
