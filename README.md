@@ -1,4 +1,4 @@
-# Crowdfix 19 July 2024 Outage Resolution
+# Crowdstrike fix 19 July 2024 Outage Resolution
 
 ## :question: What's up here?
 A recent CrowdStrike update is causing computers running Windows to crash and display the Blue Screen of Death (BSOD). Companies around the world have been unable to reboot, leading to significant disruptions.
